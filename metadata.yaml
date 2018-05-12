@@ -1,0 +1,48 @@
+_repo: The-Old-Market-Cart_45552
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Pierce, William J.
+    aliases:
+    - Peirce
+    - Peirce, William J.
+    birthdate: 1829
+    gutenberg_agent_id: '43194'
+    url: http://www.gutenberg.org/2009/agents/43194
+covers:
+- cover_type: archival
+  image_path: 45552-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Griswold, F. Burge (Frances Burge)
+    aliases:
+    - Griswold, Frances Irene Burge Smith
+    - Phelps, S. B., Mrs.
+    - Smith, Mrs. F. B.
+    - Phelps, Mrs. S. B.
+    - Smith, F. B. (Frances Burge)
+    - Smith, F. I. Burge (Frances Irene Burge)
+    birthdate: 1826
+    deathdate: 1900
+    gutenberg_agent_id: '33636'
+    url: http://www.gutenberg.org/2009/agents/33636
+description: ''
+gutenberg_issued: '2014-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45552'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Boys -- Juvenile fiction'
+- !lcsh 'Weeds -- Juvenile fiction'
+- !lcsh 'Flowers -- Juvenile fiction'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+- !lcsh 'Children -- Conduct of life -- Juvenile fiction'
+- !lcsh 'Country life -- Juvenile fiction'
+title: The Old Market-Cart
+url: http://www.gutenberg.org/ebooks/45552
